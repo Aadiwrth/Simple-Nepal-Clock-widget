@@ -37,9 +37,9 @@ Works seamlessly across platforms:
 ### Method 1: Download Executable (Recommended)
 
 1. **Download for Your Platform**
-   - [Windows (.exe)](https://github.com/Aadiwrth/Simple-Clock-widget/releases)
-   - [macOS (.app)](https://github.com/Aadiwrth/Simple-Clock-widget/releases)
-   - [Linux (AppImage)](https://github.com/Aadiwrth/Simple-Clock-widget/releases)
+   - [Windows (.exe)](https://github.com/Aadiwrth/Simple-Nepal-Clock-widget/releases)
+   - [macOS (.app)](https://github.com/Aadiwrth/Simple-Nepal-Clock-widget/releases)
+   - [Linux (AppImage)](https://github.com/Aadiwrth/Simple-Nepal-Clock-widget/releases)
 
 2. **Run the Application**
    - **Windows**: Double-click `nepal_clock.exe`
@@ -50,8 +50,8 @@ Works seamlessly across platforms:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Aadiwrth/Simple-Clock-widget.git
-   cd Simple-Clock-widget
+   git clone https://github.com/Aadiwrth/Simple-Nepal-Clock-widget.git
+   cd Simple-Nepal-Clock-widget
    ```
 
 2. **Install Dependencies**
@@ -112,7 +112,7 @@ Works seamlessly across platforms:
 
 ### File Structure
 ```
-Simple-Clock-widget/
+Simple-Nepal-Clock-widget/
 ├── nepal_clock_widget.py    # Main application code
 ├── requirements.txt         # Python dependencies
 ├── build.sh                # Unix build script
@@ -145,8 +145,8 @@ nepal_time = datetime.now(pytz.timezone('Asia/Kathmandu'))
 ### Local Development
 ```bash
 # Clone and setup
-git clone https://github.com/Aadiwrth/Simple-Clock-widget.git
-cd Simple-Clock-widget
+git clone https://github.com/Aadiwrth/Simple-Nepal-Clock-widget.git
+cd Simple-Nepal-Clock-widget
 
 # Create virtual environment
 python -m venv venv
@@ -287,8 +287,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Support
 
 If you encounter any issues or have suggestions:
-- 🐛 [Report a Bug](https://github.com/Aadiwrth/Simple-Clock-widget/issues)
-- 💡 [Request a Feature](https://github.com/Aadiwrth/Simple-Clock-widget/issues)
+- 🐛 [Report a Bug](https://github.com/Aadiwrth/Simple-Nepal-Clock-widget/issues)
+- 💡 [Request a Feature](https://github.com/Aadiwrth/Simple-Nepal-Clock-widget/issues)
 - 📧 Email: official@aadiwrth.dpdns.org
 - 💬 [Discord Support](https://discord.gg/your-invite)
 
